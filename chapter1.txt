@@ -1,7 +1,0 @@
-===================
-CHAPTER 1
-=======================
-
-Chapter 1
-This is chapter 1 text
-This is more chapter 1 text 
